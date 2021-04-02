@@ -3,7 +3,7 @@
 namespace Aaranda\LumenPassportMultiauth\Config;
 
 use Illuminate\Contracts\Auth\Authenticatable;
-use SMartins\PassportMultiauth\Exceptions\MissingConfigException;
+use Aaranda\LumenPassportMultiauth\Exceptions\MissingConfigException;
 
 class AuthConfigHelper
 {
