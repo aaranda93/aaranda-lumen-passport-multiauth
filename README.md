@@ -2,7 +2,8 @@
 
 
 
-Add multi-authentication support to [Lumen Passport]
+Add passport and multi-authentication support to [Lumen](https://lumen.laravel.com/)
+
 ## Compatibility
 
 
