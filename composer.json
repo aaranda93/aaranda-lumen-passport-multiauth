@@ -1,6 +1,6 @@
 {
     "name": "aaranda/lumen-passport-multiauth",
-    "description": "Lumen porting of Laravel Passport and multi-auth",
+    "description": "Lumen adaptation of Laravel Passport and multi-auth",
     "keywords": ["php", "lumen", "laravel passport", "multi-auth"],
     "homepage": "https://www.linkedin.com/in/aaranda93",
     "license": "MIT",
